@@ -1,2 +1,2 @@
 # Adactin-hotel-project
-Adactin hotel project description
+This is my first Git repository
